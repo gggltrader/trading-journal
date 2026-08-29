@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
+.next/
+
+# Environment
+.env
+.env.local
+
+# Database
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Images
+images/
+
+# Backups
+backups/
+
+# macOS
+.DS_Store
